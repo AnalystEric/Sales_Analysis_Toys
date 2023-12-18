@@ -19,7 +19,7 @@ There are three worksheets for this project.
 The first worksheet contains 42,660 records across 9 columns. 
 The second and third worksheets will be used to append data to the first worksheet.
 
-        Dimensions: Year, Month, Store/Region/Type, Product Name/Category\
+        Dimensions: Year, Month, Store/Region/Type, Product Name/Category
         Measures: Unit Sold, Revenue, Profit
 
 ![螢幕擷取畫面 (1)](https://github.com/AnalystEric/Sales_Analysis_Toys/assets/127030648/120865d7-1cca-4384-a3a5-cd0e0d2b4b7c)
