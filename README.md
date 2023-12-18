@@ -27,4 +27,4 @@ The second and third worksheets will be used to append data to the first workshe
 # Dashboard
 ![Toys_Sales_Dashboard](https://github.com/AnalystEric/Sales_Analysis_Toys/assets/127030648/b9888a5b-62a0-4ede-b416-f3adf2fff722)
 
-Feel free to use the interactive [dashboard.]https://onedrive.live.com/edit?id=E8F6DE3218EED8F6!116&resid=E8F6DE3218EED8F6!116&ithint=file%2cxlsx&authkey=!ADjYj77RCLIOzjI&wdo=2&cid=e8f6de3218eed8f6
+Feel free to use the interactive [dashboard.](https://onedrive.live.com/edit?id=E8F6DE3218EED8F6!116&resid=E8F6DE3218EED8F6!116&ithint=file%2cxlsx&authkey=!ADjYj77RCLIOzjI&wdo=2&cid=e8f6de3218eed8f6)
