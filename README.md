@@ -16,7 +16,7 @@ The objective of this project is to assist the regional manager ( key stakeholde
 
 # Data Summary
 There are three worksheets for this project. 
-The first worksheet contains 42,660 records across 9 columns. 
+The first worksheet contains 42,660 records across 10 columns. 
 The second and third worksheets will be used to append data to the first worksheet.
 
         Dimensions: Year, Month, Store/Region/Type, Product Name/Category
