@@ -1,7 +1,7 @@
 # <p align="center">Toys Sales Analysis</p> 
 # Project Overview
 A formula-driven interactive dashboard with KPIs to explore monthly revenue trends and compare sales performance across regions and stores year over year.
-The objective of this project is to assist the regional manager ( key stakeholder) in making informed business decisions.
+The objective of this project is to assist the regional manager (key stakeholder) in making informed business decisions.
 
 # Built With
 * Excel
