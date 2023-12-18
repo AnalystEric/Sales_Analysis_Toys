@@ -25,4 +25,4 @@ The second and third worksheets will be used to append data to the first workshe
 ![螢幕擷取畫面 (1)](https://github.com/AnalystEric/Sales_Analysis_Toys/assets/127030648/120865d7-1cca-4384-a3a5-cd0e0d2b4b7c)
 
 # Dashboard
-![Toys_Sales_Dashboard](https://github.com/AnalystEric/Sales_Analysis_Toys/assets/127030648/4f8cdd2f-a108-4ccd-b221-151195d532ce)
+![Toys_Sales_Dashboard](https://github.com/AnalystEric/Sales_Analysis_Toys/assets/127030648/b9888a5b-62a0-4ede-b416-f3adf2fff722)
